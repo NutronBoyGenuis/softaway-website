@@ -136,7 +136,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 3rem 1.5rem;
-    border: 16px solid #000000;
+    border: 36px solid #000000;
     border-top: none;
     /* Connected to navbar */
     position: relative;
@@ -161,8 +161,8 @@ body {
     content: '';
     position: absolute;
     bottom: -76px;
-    left: -16px;
-    right: -16px;
+    left: -36px;
+    right: -36px;
     height: 60px;
     background: linear-gradient(to bottom, #000000, #ffffff);
     z-index: 1;
